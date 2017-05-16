@@ -1,0 +1,17 @@
+{
+    "name": "mitr-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cadson Demak"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mitr-bower.git"
+    },
+    "description": "Mitr font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
